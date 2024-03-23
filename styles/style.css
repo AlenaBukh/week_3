@@ -1,0 +1,16 @@
+.gallery img {
+  display: none;
+  max-width: 100%;
+}
+
+#prevButton,
+#nextButton {
+  margin-top: 10px;
+}
+
+button {
+  background-color: black;
+  border-radius: 30px;
+  width: 10%;
+  color: aliceblue;
+}
