@@ -1,11 +1,11 @@
 .gallery img {
-  display: none;
-  max-width: 100%;
+  display: flex;
+  max-width: 50%;
 }
 
 #prevButton,
 #nextButton {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 button {
@@ -13,4 +13,5 @@ button {
   border-radius: 30px;
   width: 10%;
   color: aliceblue;
+  justify-content: center;
 }
